@@ -1,0 +1,1 @@
+C:\Code\ViewModelBasic\ViewModelBasic\ViewModelBasic.csproj;x86
